@@ -1,0 +1,17 @@
+{
+    "name": "SSD_FE_002_Dev",
+    "version": "0.0.1",
+    "author": "Unknown",
+    "language": "en",
+    "modules": {},
+    "jasshelper_mode": "cli",
+    "is_as_parser_raise_exception": false,
+    "backups_limit": 20,
+    "use_tmp_dir": false,
+    "use_modern_ini_parser": false,
+    "formatter_tools": [
+        "locale",
+        "colors",
+        "ru2en"
+    ]
+}

@@ -11,3 +11,5 @@
 # Разрешить папку Data
 !data/
 !data/**
+
+!project.json
