@@ -1,0 +1,13 @@
+# Игнорировать всё
+*
+
+# Но не игнорировать сам .gitignore
+!.gitignore
+
+# Разрешить папку Scripts
+!scripts/
+!scripts/**
+
+# Разрешить папку Data
+!data/
+!data/**
